@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FILTER_APP</string>
+    <string name="title_activity_second_page">SecondPage</string>
+    <string name="title_activity_seekbar_layer">seekbar_layer</string>
+
+    <string name="permission_title">Permission</string>
+    <string name="permission_content">you need to give storage permission,to apply filters.</string>
+    <string name="permission_granted_content">Storage permission has been granted!</string>
+
+
+    <string name="permission_agree">Yes</string>
+    <string name="permission_agree_setting">Go to setting</string>
+    <string name="permission_cancel">Cancel</string>
+</resources>
